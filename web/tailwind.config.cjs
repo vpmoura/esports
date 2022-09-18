@@ -3,11 +3,11 @@ module.exports = {
   content: ["./src/**/*.tsx", "./index.html"],
   theme: {
     fontFamily: {
-      sans: ['Inter', 'sans-serif']
+      sans: ["Inter", "sans-serif"],
     },
     extend: {
       backgroundImage: {
-        galaxy: "url('./public/background-galaxy@3x.png')",
+        galaxy: "url('./public/Fundo.svg')",
         "nlw-gradient":
           "linear-gradient(89.86deg, #9572FC 27.08%, #43E7AD 40.94%, #E1D55D 33.57%)",
         "game-gradient":
