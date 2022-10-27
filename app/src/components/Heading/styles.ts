@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     padding: 32,
   },
   
-  tile: {
+  title: {
     color:  THEME.COLORS.TEXT,
     fontSize: THEME.FONT_SIZE.LG,
     fontFamily: THEME.FONT_FAMILY.BLACK,
